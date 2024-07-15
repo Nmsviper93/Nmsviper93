@@ -20,7 +20,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://linkedin.com/in/joshmadakor" rel="nofollow"> 
+<a href="https://www.linkedin.com/in/nick-schafer24/" rel="nofollow"> 
 <img align="left" alt="NickSchafer | LinkedIn" width="22px" src="https://camo.githubusercontent.com/66ddc0c3999080e866e531e40a816db84150a1d75788a686102b0e66c8b4ecfb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
 </a>
 
