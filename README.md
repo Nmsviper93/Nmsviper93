@@ -4,6 +4,7 @@
 
 - <b> Python/Flask </b>
   - [Wine Wanderer](https://github.com/Nmsviper93/Wine_Wanderer)
+  - [Lord of the Rings Quiz](https://github.com/Nmsviper93/Lord_of_the_Rings_Quiz)
 
 <h2> Connect with me:</h2>
 
