@@ -6,7 +6,7 @@
     - [Ginn Music](https://github.com/Nmsviper93/Ginn) - This is a professional artist portfolio website for Ginn, a Nashville-based pop/rock musician, built with React, TypeScript, and Tailwind CSS. The site features a responsive design with sections for music integration (including Spotify and YouTube embeds), a media gallery showcasing photos and videos, tour dates through BandsInTown integration, and a contact system using EmailJS. The project implements modern web development practices with a component-based architecture, utilizing Vite for fast development and building, while maintaining a clean and professional aesthetic that effectively showcases the artist's brand and content. Check it out <a href="http://ginnmusicofficial.com/"> here!
 
 - <b> Python/Flask </b>
-  - [Lord of the Rings Quiz](https://github.com/Nmsviper93/Lord_of_the_Rings_Quiz) - Currently MVP, this full stack application takes users through a multiple choice Lord of the Rings quiz, with different results offering congratulations or resources to learn more about the material. Check it out <a href="http://www.lotrquizapp.com/landing"> here!
+  - [Lord of the Rings Quiz](https://github.com/Nmsviper93/Lord_of_the_Rings_Quiz) - Currently MVP, this full stack application takes users through a multiple choice Lord of the Rings quiz, with different results offering congratulations or resources to learn more about the material. 
  
 
 <h2> Connect with me:</h2>
